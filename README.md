@@ -1,7 +1,7 @@
 # Software Design by Examples
 This project collects examples, exercises and model solutions needed as an introduction to software design.
 The repository contains examples of UML to Java mappings as well as examples about some of the most common
-design patterns:
+design patterns::
 
 1. [UML to Java Mappings](https://github.com/teiniker/teiniker-lectures-softwaredesign/tree/master/uml-to-java)
   * Class and Package Diagram
